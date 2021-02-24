@@ -1,0 +1,4 @@
+{
+  message: 'the text to display',
+  link: 'optional link to re-direct the user when clicked',
+}
