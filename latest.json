@@ -1,4 +1,7 @@
 {
-  "message": "Platform Upgrade Notification",
-  "description": "As a part of our commitment to creating a top-class development environment, Dataswift is undertaking a full redesign of our developers' experience. Updates will be introduced in phases starting with a full redesign of the user interface and an upgrade of some of the existing functionality. We are now ready to introduce this first step and wish to notify you that this will be implemented in the Dataswift developers dashboard on the 8th of February 2021."
+  "title": "Platform Upgrade Notification",
+  "description": [
+    "As a part of our commitment to creating a top-class development environment, Dataswift is undertaking a full redesign of our developers' experience. Updates will be introduced in phases starting with a full redesign of the user interface and an upgrade of some of the existing functionality.",
+    "We are now ready to introduce this first step and wish to notify you that this will be implemented in the Dataswift developers dashboard on the 8th of February 2021."
+  ]
 }
