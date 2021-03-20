@@ -1,8 +1,0 @@
-{
-  "title": "Planned production service downtime notification - Click for more information",
-  "description": [
-    "To continue providing our customers with the highest levels of service we are planning to upgrade some key components in the production Dataswift platform. This work will require us to take the service offline for a period of 8 hours from 07:00 GMT until 15:00 GMT on Saturday 20th March 2021. During this time, creating a Personal Data Account or gaining access to an existing Personal Data Account will not be possible. We apologise for any inconvenience this may cause and value your patience during this time.",
-    "Should you encounter any problems after the times above please contact our support team at support@dataswift.io and we will resolve any issues with you as quickly as possible."
-  ],
-  "link": "https://www.dataswift.io/about/system-notices"
-}
